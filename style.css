@@ -1,0 +1,12 @@
+body{
+background-color:green ;
+}
+
+.div_header{
+    width: 100%;
+box-shadow: 5px 5px 5px black;
+}
+.div_footer{
+    width: 100%;
+    
+}
